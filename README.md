@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Metrollied
 - I have been following The Odin Project and learning web development.
+- If you are here as an employer, please see https://metrollied.github.io/funeral/ for an example of my work.
 - Please have a look at my projects! Any feedback is appreciated.
 - Thank you!
 
